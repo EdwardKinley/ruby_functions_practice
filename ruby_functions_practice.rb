@@ -62,5 +62,3 @@ end
 def fahrenheit_to_celsius(f)
   return (5/9.to_f) * (f - 32)
 end
-
-puts fahrenheit_to_celsius(68)
